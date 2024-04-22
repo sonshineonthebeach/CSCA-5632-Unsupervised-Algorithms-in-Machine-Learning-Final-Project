@@ -9,9 +9,15 @@ Unsupervised Learning Methods Used
 PCA method is used to reduce dimenalities of large datasets. The PCA method helps us reduce dimentionality of large dataset. It also helps us improve performance and understand data more. K-Clustering method is used to group up cities which have the similar factors.
 
 Table of Contents:
+
 Import depencies or libraries that need to be used in this project
+
 Read the data from CVS file and Clean up data or reformat data for the purposes of the project
+
 Display plots for the input data
+
 Apply PCA and display plots
+
 Apply K-Clustering and display plots
+
 Conclusions
